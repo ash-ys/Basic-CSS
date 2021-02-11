@@ -61,7 +61,7 @@ body{
     background-color: lightblue;
     max-width: 1000px;
     margin: 0 auto;
-    background-image: url("/img/G4.png");
+    background-image: url("../img/G4.png");
     background-position: center;
     background-repeat: repeat-y;
 }
